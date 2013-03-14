@@ -9,12 +9,6 @@
   <name>scotch</name>
   <version>0.0.3-alpha-1</version>
   <inceptionYear>2012</inceptionYear>
-  <distributionManagement>
-    <repository>
-      <id>repo</id>
-      <url>file:///Users/damemekam/Work/projects/mvn-repo/repo</url>
-    </repository>
-  </distributionManagement>
   <build>
     <defaultGoal>validate</defaultGoal>
     <finalName>${project.artifactId}</finalName>
